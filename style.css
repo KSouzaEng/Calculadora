@@ -1,0 +1,46 @@
+.corpo{
+  margin: 0 auto;
+  margin-top: 16%;
+  float: center;
+  width: 700px;
+  background-image: url('img/numb.jpg');
+  background-repeat: repeat-x;
+  background-size: 50%;
+}
+
+.container {
+    border-style: solid;
+    margin-top: 100px;
+    width: 10px;
+    
+}
+.container input{
+
+  width: 130px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: bold;
+  font-display: unset;
+  font-size: 20px;
+}
+
+.resultado{
+
+  width: 25%;
+  padding-bottom: 5%; /* ... e está aqui */
+  margin: 5%;
+  float: right;
+  border-style: solid;
+  font-size: 300px;
+  text-align: center;
+  margin-top: 0 auto;
+  
+
+}
+.container p{
+
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  float: right;
+  align-items:baseline;
+}
